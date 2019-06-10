@@ -1,1 +1,4 @@
 ## Please list additional packages with version numbers
+hdbscan
+fastcluster
+lightgbm

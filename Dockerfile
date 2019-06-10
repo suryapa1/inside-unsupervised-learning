@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook:ae5f7e104dd5
+FROM jupyter/tensorflow-notebook:d4cbf2f80a2a
 
 #Set the working directory
 WORKDIR /home/jovyan/
